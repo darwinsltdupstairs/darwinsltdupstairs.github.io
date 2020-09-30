@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Fermentation"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "In Memoriam"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Come Live With Us!"
     url: /portfolio/
         
   - title: "Blog Posts"
