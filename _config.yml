@@ -83,7 +83,7 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "IMG_4860.JPG"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "https://www.google.com/maps/place/Darwin's+Ltd.+-+Putnam+Avenue/@42.3689588,-71.1158231,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774db29e5c67:0xdb0070c88e7e0928!8m2!3d42.3689549!4d-71.1136344"
+  location         : "Location" ["https://www.google.com/maps/place/Darwin's+Ltd.+-+Putnam+Avenue/@42.3689588,-71.1158231,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774db29e5c67:0xdb0070c88e7e0928!8m2!3d42.3689549!4d-71.1136344"]
   employer         :
   pubmed           : 
   googlescholar    : 
