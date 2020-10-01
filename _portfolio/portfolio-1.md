@@ -9,8 +9,8 @@ Applicants interested in the Winter Round should send a CV and Cover Letter to d
 For example cover letters and CVs see below
  <br /> 
  [Example Cover Letter](http://darwinsltdupstairs.github.io/files/example_coverletter.pdf)
-  <br 
- [Example Resume](http://darwinsltdupstairs.github.io/files/example_resume.pdf)/> "
+  <br />
+ [Example Resume](http://darwinsltdupstairs.github.io/files/example_resume.pdf) "
 collection: portfolio
 ---
 
