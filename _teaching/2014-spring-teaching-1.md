@@ -1,5 +1,6 @@
 ---
 title: "Alpha the Beta Fish"
+venue: " "
 excerpt: "2020-2020<br/><img src='/images/3BE3530C-9237-43D0-868D-FE1A244905B1_1_105_c.jpeg
 '> <br/><img src='/images/329A2CF9-CB78-4909-BE24-472496F4B118_1_105_c.jpeg
 '> <br/><img src='/images/346A2B48-A10D-4A34-8EEB-FACA3B25795B_1_105_c.jpeg
