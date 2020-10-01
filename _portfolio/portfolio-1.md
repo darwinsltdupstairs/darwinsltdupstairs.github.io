@@ -1,8 +1,8 @@
 ---
 title: "Alpha the Beta Fish"
-excerpt: "2020-20202<br/><img src='/images/3BE3530C-9237-43D0-868D-FE1A244905B1_1_105_c.jpeg
-'> <br/><img src='/images/3BE3530C-9237-43D0-868D-FE1A244905B1_1_105_c.jpeg
-'>"
+excerpt: "2020-2020<br/><img src='/images/3BE3530C-9237-43D0-868D-FE1A244905B1_1_105_c.jpeg
+'> <br/><img src='/images/329A2CF9-CB78-4909-BE24-472496F4B118_1_105_c.jpeg
+' class='rotate90'>"
 collection: portfolio
 ---
 
