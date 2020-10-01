@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Fermentation"
 permalink: /publications/
 author_profile: true
 ---
