@@ -7,11 +7,11 @@ This is Cat Lowdon
 <img src='/images/Lowdon, Catherine_023.jpg'>
  <br /> 
  <br /> 
-Hard at work
+Hard at work in the fellowship office
 <img src='/images/IMG_5550.jpeg'>
  <br /> 
  <br /> 
-Hard at play
+The center of attention
 <img src='/images/IMG_0061-2.JPG'>
  <br /> 
  <br /> 
