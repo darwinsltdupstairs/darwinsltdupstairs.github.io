@@ -1,0 +1,6 @@
+Add pages to the website
+
+- make a new folder modeled off of "portfolio" (come live with us)
+- add it to the navigation in data/navigation.yml
+- add a html file like portfolio.html in _pages
+- copy changes into _config.yml
