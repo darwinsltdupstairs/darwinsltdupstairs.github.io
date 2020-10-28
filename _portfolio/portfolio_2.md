@@ -9,6 +9,11 @@ Hard at work
  <br /> 
  <br /> 
 Hard at play
-<img src='/images/IMG_0061-2.JPG'>"
+<img src='/images/IMG_0061-2.JPG'>
+
+Her thoughts on her time at Darwin's Upstairs:
+"“What do I think of Middlemarch? What do I think of glory?” 
+
+Emily Dickinson stated this response in a letter to her cousins after reading George Eliot’s famous novel. I would say the same of my Remote Worker In Residence Experience." "
 collection: portfolio
 ---
