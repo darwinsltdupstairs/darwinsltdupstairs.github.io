@@ -2,6 +2,7 @@
 title: "Meet Our Fall 2020 Fellow"
 excerpt: "It was an incredibly competitive application cycle for our innagural RWRF competition. But in the end someone had to win out. We are so pleased to announce our first winner.
  <br /> 
+ <br /> 
 This is Cat Lowdon
 <img src='/images/Lowdon, Catherine_023.jpg'>
  <br /> 
