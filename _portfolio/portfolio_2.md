@@ -4,15 +4,15 @@ excerpt: "It was an incredibly competitive application cycle for our innagural R
  <br /> 
  <br /> 
 This is Cat Lowdon
-<img src='/images/Lowdon, Catherine_023.jpg' width="500">
+<img src='/images/Lowdon, Catherine_023.jpg'>
  <br /> 
  <br /> 
 Hard at work
-<img src='/images/IMG_5550.jpeg' width="500">
+<img src='/images/IMG_5550.jpeg'>
  <br /> 
  <br /> 
 Hard at play
-<img src='/images/IMG_0061-2.JPG' width="500">
+<img src='/images/IMG_0061-2.JPG'>
  <br /> 
  <br /> 
  <br /> 
