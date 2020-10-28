@@ -16,9 +16,7 @@ Hard at play
  <br /> 
  <br /> 
  <br /> 
-Her thoughts on her time at Darwin's Upstairs:
- <br /> 
- <br />"
+Her thoughts on her time at Darwin's Upstairs:"
 excerpt:>"'What do I think of Middlemarch? What do I think of glory?' 
  <br /> 
  <br /> 
