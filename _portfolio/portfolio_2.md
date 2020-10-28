@@ -1,6 +1,7 @@
 ---
 title: "Meet Our Fall 2020 Fellow"
 excerpt: "This is Cat Lowdon
+<img src='/images/Lowdon, Catherine_023.jpg'>
  <br /> 
  <br /> 
 Hard at work
@@ -8,6 +9,6 @@ Hard at work
  <br /> 
  <br /> 
 Hard at play
-<img src='/images/IMG_0061-2.JPG'>
+<img src='/images/IMG_0061-2.JPG'>"
 collection: portfolio
 ---
