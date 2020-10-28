@@ -16,6 +16,9 @@ Hard at play
  <br /> 
  <br /> 
  <br /> 
-Her thoughts on her time at Darwin's Upstairs:"
+Her thoughts on her time at Darwin's Upstairs:
+ <br /> 
+ <br /> 
+ <blockquote>fdjlfaljfad</blockquote>"
 collection: portfolio
 ---
