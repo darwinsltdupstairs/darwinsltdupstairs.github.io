@@ -16,6 +16,11 @@ The center of attention
  <br /> 
  <br /> 
  <br /> 
+ Her progress
+ <img src='/images/cat_rwrd.png'>
+ <br /> 
+ <br /> 
+ <br /> 
 Her thoughts on her time at Darwin's Upstairs:
  <br /> 
  <br /> 
