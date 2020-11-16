@@ -4,7 +4,7 @@ excerpt: "It was an incredibly competitive application cycle for our innagural R
  <br /> 
  <br /> 
 This is Cat Lowdon
-<img src='/images/Lowdon, Catherine_023.jpg'>
+<img src='/images/Lowdon, Catherine_023.jpg' width="200" height="40">
  <br /> 
  <br /> 
 Hard at work in the fellowship office
@@ -17,7 +17,7 @@ The center of attention
  <br /> 
  <br /> 
  Her progress
- <img src='/images/cat_rwrd.png'>
+ <img src='/images/cat_rwrf.png'>
  <br /> 
  <br /> 
  <br /> 
